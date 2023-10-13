@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "990609359779",
+    "firebase_url": "https://attendance-210cd-default-rtdb.firebaseio.com",
+    "project_id": "attendance-210cd",
+    "storage_bucket": "attendance-210cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990609359779:android:090ba0d5b1947465a6d016",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD2yTOC7htviDZMb-1zJKZEoTQHoqWo_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
